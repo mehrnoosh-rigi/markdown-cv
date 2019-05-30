@@ -48,7 +48,7 @@ Intermediate knowledege:
 
 ### Research interests
 
-Web application scripted testing tools, Machine learning
+Web application scripted testing, Machine learning
 
 <!-- ### Footer
 
