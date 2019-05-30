@@ -3,7 +3,7 @@ layout: cv
 title: Mehrnoosh Rigi
 ---
 # Mehrnoosh Rigi
-Meanwhile of having a job and being a student in master degree in a normal university, I found out I am not in the right place which I want to be, then I moved to Italy to learn more. after couple of months I saw being just a student didn't teach me the give that forced me to be an immigrant. So I decided to find a job to be in real world of engineering and continue my education during having a professional life. This cuased that I be in the first step of where that I want to be, having opportunity to follow my dreams and my interests for making the earth a better place for living.
+Meanwhile, of having a job and being a student as the master degree in a normal university, I found out I am not in the right place which I want to be, then I moved to Italy to learn more. after a couple of months, I saw being just a student didn't give me the things that I willing to have and forced me to be an immigrant. So I decided to find a job to be in the real world of engineering and continue my education during having a professional life. This caused that I will be in the first step of where I want to be, having the opportunity to follow my dreams and my interests for making the earth a better place for living.
 
 <div id="webaddress">
 <a href="mehrnoosh.rigi@etiqa.it">Mehrnoosh.Rigi@Etiqa.it</a>
@@ -26,13 +26,13 @@ Being responsible for the Qasimodo project, which is specialized for following a
 - Mostly doing new features and solving bugs in the Front End with JavaScript combined with React/Redux and GraphQl technologies.
 - Partially doing the Back End for new features and bug fixing with Clojure and GraphQL.
 - Responsible for writing unit test in Back End for the new features.
-- Responsible for Continuous Integration testing in order to have compatibility between the Front End and the Back End.(Configuration of Jenkins Pipe Line file, Programmig with gherkin and JavaScript)
+- Responsible for Continuous Integration testing in order to have compatibility between the Front End and the Back End. (Configuration of Jenkins Pipe Line file, Programming with gherkin and JavaScript)
 
 `June 2013 - August 2016`
 IT support and consultant in Agricultural and Natural Resource Engineering Organization: www.agriengs.ir
 
 Being responsible for IT issues related to the organization.
-- Supporting of networks infrastructure and the automation tools.
+- Supporting networks infrastructure and automation tools.
 - Solve the IT problem of co-workers.
 
 ### Technical Experience
