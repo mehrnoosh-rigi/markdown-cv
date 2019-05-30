@@ -58,7 +58,7 @@ Being responsible for IT issues related to the organization.
 Programming languages: 
 
   Advanced: 
-    - Javascript(React/Redux/GraphQl)
+     Javascript(React/Redux/GraphQl)
     - Clojure
     - Clojure
     - C
@@ -66,7 +66,7 @@ Programming languages:
     - HTML and CSS
     
   Intermediate:
-      - Java (Compilers and Android applications)
+       Java (Compilers and Android applications)
       - C#
       - SQL
       - PHP
