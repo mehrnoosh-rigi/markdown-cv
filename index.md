@@ -24,16 +24,19 @@ Being responsible for the Qasimodo project, which is specialized for following a
 - Mostly doing new features and solving bugs in the Front End with the JavaScript combined with React/Redux and GraphQl technologies.
 - Partially doing the Back End for new features and bug fixing with Clojure and GraphQL.
 - Responsible for writing unit test in Back End for the new features.
-- Responsible Continuous Integration testing for the compatibility between Front End and Back End.(Compatible with Jenkins Pipe Line, with gherkin and JavaScript)
+- Responsible for Continuous Integration testing in order to have compatibility between the Front End and the Back End.(Configuration of Jenkins Pipe Line file, Programmig with gherkin and JavaScript)
 
 `June 2013 - August 2016`
 IT support and consultant in Agricultural and Natural Resource Engineering Organization: www.agriengs.ir
-- Being responsible for the supporting of networks infrastructure and the Automation general tools
-- Solve the IT problem of co-workers
+
+Being responsible for IT issues related to the organization.
+- Supporting of networks infrastructure and the Automation tools.
+- Solve the IT problem of co-workers.
 
 ### Technical Experience
 
 Programming languages: 
+
   Advanced: 
     - Javascript(React/Redux/GraphQl)
     - Clojure
@@ -41,6 +44,7 @@ Programming languages:
     - C
     - Assembly
     - HTML and CSS
+    
   Intermediate:
       - Java (Compilers and Android applications)
       - C#
