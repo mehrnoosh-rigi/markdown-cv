@@ -30,7 +30,6 @@ Meanwhile, of having a job and being a student as the master degree in a normal 
 
 
 
-<div>
 `September 2016 - now:`
 
 
@@ -44,9 +43,9 @@ Meanwhile, of having a job and being a student as the master degree in a normal 
 
 
 
-
+  <div>
   MSc, Computer Software Engineering, Politecnico Di Torino
-
+  </div>
 
 
 
@@ -63,7 +62,7 @@ Meanwhile, of having a job and being a student as the master degree in a normal 
 
 
 
-
+  <div>
   BSc, Computer Science, Hardware Engineering: University of Sepahan(Isfahan) Science and Technology
   </div>
 ## Experience
