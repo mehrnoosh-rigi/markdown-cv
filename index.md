@@ -9,10 +9,11 @@ title: Mehrnoosh Rigi
 Meanwhile, of having a job and being a student as the master degree in a normal university, I found out I am not in the right place which I want to be, then I moved to Italy to learn more. after a couple of months, I saw being just a student didn't give me the things that I willing to have and forced me to be an immigrant. So I decided to find a job to be in the real world of engineering and continue my education during having a professional life. This caused that I will be in the first step of where I want to be, having the opportunity to follow my dreams and my interests for making the earth a better place for living.
 
 <div id="webaddress">
+  Email:
   <a href="mehrnoosh.rigi@etiqa.it">Mehrnoosh.Rigi@Etiqa.it</a>
 </div>
 <div id="webaddress">
-  linkedin:
+  Linkedin:
   <a href="https://www.linkedin.com/in/mehrnoosh-rigi-a364336a/">mehrnoosh-rigi</a>
 </div>
 
