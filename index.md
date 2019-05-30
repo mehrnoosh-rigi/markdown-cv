@@ -39,7 +39,8 @@ Programming Languages:
     - C
     - Assembly
     - HTML and CSS
-    Intermediate knowledege:
+
+Intermediate knowledege:
       - Java (Compilers and Android applications)
       - C#
       - SQL
