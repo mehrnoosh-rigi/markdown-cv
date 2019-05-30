@@ -1,88 +1,53 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Mehrnoosh Rigi
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Mehrnoosh Rigi
+Software engineering, Junior web developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mehrnoosh.rigi@etiqa.it">Mehrnoosh.Rigi@Etiqa.it</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2010-2013:`
+  BSc, Computer Science, Hardware Engineering: University of Sepahan(Isfahan) Science and Technology
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`September 2016 - now`
+  MSc, Computer Software Engineering, Politecnico Di Torino
 
-- Sizar
+## Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+`June 2013 - August 2016`
+IT support and consultant in Agricultural and Natural Resource Engineering Organization: www.agriengs.ir
 
-- Fellow
+`December 2017 - Now`
+Junior web Application Developer in Etiqa.Srl : www.Etiqa.it
 
+### Technical Experience
+Qasimodo project: An application that is specialized for following and running the scripted testing files which can be written in gherkin grammar rules, as a Behaviour-Driven Development(BDD).
+    Programming languages: - Javascript with React and Redux technology, Clojure
+                           - Javascript with Graphql.
+    Testing approaches  - Unit tests for Clojure.
+                        - End to End and Continuous Integration testing for the compatibility between Front End and Back End.
+                        (In Jenkins Pipe Line, with gherkin and JavaScript)
+                        
+Programming Languages:
+    - Javascript(React/Redux/Graphql)
+    - Clojure
+    - C
+    - Assembly
+    - HTML and CSS
+    Intermediate knowledege:
+      - Java (Compilers and Android applications)
+      - C#
+      - SQL
+      - PHP
 
+### Research interests
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+Web application scripted testing tools, Machine learning
 
 <!-- ### Footer
 
