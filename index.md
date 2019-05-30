@@ -132,7 +132,7 @@ Being responsible for IT issues related to the organization.
 
 ___Programming languages:___
 
-  Advanced: 
+  __Advanced:__
      Javascript(React/Redux/GraphQl)
     - Clojure
     - Clojure
@@ -140,7 +140,7 @@ ___Programming languages:___
     - Assembly
     - HTML and CSS
     
-  Intermediate:
+  __Intermediate:__
        Java (Compilers and Android applications)
       - C#
       - SQL
