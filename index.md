@@ -9,7 +9,8 @@ Meanwhile, of having a job and being a student as the master degree in a normal 
   <a href="mehrnoosh.rigi@etiqa.it">Mehrnoosh.Rigi@Etiqa.it</a>
 </div>
 <div id="webaddress">
-  <a href="https://www.linkedin.com/in/mehrnoosh-rigi-a364336a/">www.linkedin.com/in/mehrnoosh-rigi-</a>
+  linkedin:
+  <a href="https://www.linkedin.com/in/mehrnoosh-rigi-a364336a/">mehrnoosh-rigi</a>
 </div>
 
 ## Education
