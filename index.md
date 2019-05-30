@@ -15,7 +15,7 @@ Meanwhile, of having a job and being a student as the master degree in a normal 
 </div>
 
 ## Education
-<br/>
+
 `September 2016 - now:`
 <br/>
   - MSc, Computer Software Engineering, Politecnico Di Torino
@@ -26,7 +26,7 @@ Meanwhile, of having a job and being a student as the master degree in a normal 
 
 
 ## Experience
-<br/>
+
 `December 2017 - Now:`
 <br/>
 - Web Developer in Etiqa.Srl : www.Etiqa.it
