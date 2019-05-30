@@ -92,7 +92,6 @@ Meanwhile, of having a job and being a student as the master degree in a normal 
 
 
 
-
 Web Developer in Etiqa.Srl : www.Etiqa.it
 
 Being responsible for the Qasimodo project, which is specialized for following and running the scripted testing files. 
@@ -125,8 +124,7 @@ Being responsible for IT issues related to the organization.
 ## Technical Experience
 
 
-
-### Programming languages: 
+Programming languages: 
 
   Advanced: 
      Javascript(React/Redux/GraphQl)
