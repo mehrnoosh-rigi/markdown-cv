@@ -42,7 +42,7 @@ Being responsible for the Qasimodo project, which is specialized for following a
 
 
 `June 2013 - August 2016:`
-
+<br/>
 
 - IT support and consultant in Agricultural and Natural Resource Engineering Organization: www.agriengs.ir
 
