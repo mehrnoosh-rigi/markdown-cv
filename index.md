@@ -3,6 +3,9 @@ layout: cv
 title: Mehrnoosh Rigi
 ---
 # Mehrnoosh Rigi
+
+
+
 Meanwhile, of having a job and being a student as the master degree in a normal university, I found out I am not in the right place which I want to be, then I moved to Italy to learn more. after a couple of months, I saw being just a student didn't give me the things that I willing to have and forced me to be an immigrant. So I decided to find a job to be in the real world of engineering and continue my education during having a professional life. This caused that I will be in the first step of where I want to be, having the opportunity to follow my dreams and my interests for making the earth a better place for living.
 
 <div id="webaddress">
@@ -14,14 +17,25 @@ Meanwhile, of having a job and being a student as the master degree in a normal 
 </div>
 
 ## Education
-`September 2016 - now`
+
+
+`September 2016 - now:`
+
+
   MSc, Computer Software Engineering, Politecnico Di Torino
 
+
+
 `2010-2013:`
+
+
   BSc, Computer Science, Hardware Engineering: University of Sepahan(Isfahan) Science and Technology
 ## Experience
 
+
 `December 2017 - Now`
+
+
 Junior web Application Developer in Etiqa.Srl : www.Etiqa.it
 
 Being responsible for the Qasimodo project, which is specialized for following and running the scripted testing files. 
@@ -31,6 +45,8 @@ Being responsible for the Qasimodo project, which is specialized for following a
 - As the responsible for Continuous Integration testing I have written 19 automated tests covering 70% of the features, in order to have compatibility between the Front End and the Back End. (Configuration of Jenkins pipeline file, programming with gherkin and JavaScript)
 
 `June 2013 - August 2016`
+
+
 IT support and consultant in Agricultural and Natural Resource Engineering Organization: www.agriengs.ir
 
 Being responsible for IT issues related to the organization.
