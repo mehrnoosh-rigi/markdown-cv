@@ -21,6 +21,16 @@ Meanwhile, of having a job and being a student as the master degree in a normal 
 
 
 
+
+
+
+
+
+
+
+
+
+
 `September 2016 - now:`
 
 
@@ -56,6 +66,17 @@ Meanwhile, of having a job and being a student as the master degree in a normal 
 
   BSc, Computer Science, Hardware Engineering: University of Sepahan(Isfahan) Science and Technology
 ## Experience
+
+
+
+
+
+
+
+
+
+
+
 
 
 `December 2017 - Now:`
@@ -101,11 +122,11 @@ Being responsible for IT issues related to the organization.
 - Supporting networks infrastructure and automation tools.
 - Solve the IT problem of co-workers.
 
-### Technical Experience
+## Technical Experience
 
 
 
-Programming languages: 
+### Programming languages: 
 
   Advanced: 
      Javascript(React/Redux/GraphQl)
@@ -121,7 +142,7 @@ Programming languages:
       - SQL
       - PHP
 
-### Research interests
+## Research interests
 
 Web Application Scripted Testing, Machine Learning and Big Data.
 
