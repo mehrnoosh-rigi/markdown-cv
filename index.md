@@ -22,7 +22,7 @@ Meanwhile, of having a job and being a student as the master degree in a normal 
 `September 2016 - now:`
 <br/>
   - MSc, Computer Software Engineering, Politecnico Di Torino
-<br/>
+
 `2010-2013:`
 <br/>
   - BSc, Computer Science, Hardware Engineering: University of Sepahan(Isfahan) Science and Technology
