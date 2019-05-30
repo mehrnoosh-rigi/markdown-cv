@@ -1,4 +1,5 @@
 ---
+layout: cv
 title: Mehrnoosh Rigi
 ---
 # Mehrnoosh Rigi
