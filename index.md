@@ -31,7 +31,7 @@ Meanwhile, of having a job and being a student as the master degree in a normal 
 
 
 `September 2016 - now:`
-</br>
+<br/>
 
 
 
