@@ -54,6 +54,7 @@ Being responsible for the Qasimodo project, which is specialized for following a
 
 
 
+
 IT support and consultant in Agricultural and Natural Resource Engineering Organization: www.agriengs.ir
 
 Being responsible for IT issues related to the organization.
