@@ -23,6 +23,7 @@ Meanwhile, of having a job and being a student as the master degree in a normal 
 `September 2016 - now:`
 
 
+
   MSc, Computer Software Engineering, Politecnico Di Torino
 
 
@@ -31,11 +32,13 @@ Meanwhile, of having a job and being a student as the master degree in a normal 
 `2010-2013:`
 
 
+
   BSc, Computer Science, Hardware Engineering: University of Sepahan(Isfahan) Science and Technology
 ## Experience
 
 
 `December 2017 - Now:`
+
 
 
 Junior web Application Developer in Etiqa.Srl : www.Etiqa.it
@@ -50,6 +53,7 @@ Being responsible for the Qasimodo project, which is specialized for following a
 `June 2013 - August 2016:`
 
 
+
 IT support and consultant in Agricultural and Natural Resource Engineering Organization: www.agriengs.ir
 
 Being responsible for IT issues related to the organization.
@@ -57,6 +61,8 @@ Being responsible for IT issues related to the organization.
 - Solve the IT problem of co-workers.
 
 ### Technical Experience
+
+
 
 Programming languages: 
 
