@@ -30,7 +30,7 @@ Being responsible for the Qasimodo project, which is specialized for following a
 IT support and consultant in Agricultural and Natural Resource Engineering Organization: www.agriengs.ir
 
 Being responsible for IT issues related to the organization.
-- Supporting of networks infrastructure and the Automation tools.
+- Supporting of networks infrastructure and the automation tools.
 - Solve the IT problem of co-workers.
 
 ### Technical Experience
@@ -53,7 +53,7 @@ Programming languages:
 
 ### Research interests
 
-Web application scripted testing, Machine learning
+Web Application Scripted Testing, Machine Learning and Big Data.
 
 <!-- ### Footer
 
