@@ -69,4 +69,8 @@ ___Programming languages:___
 
 Web Application Scripted Testing, Machine Learning and Big Data.
 
+<!-- ### Footer
+Last updated: May 2013 -->
+
+
 
