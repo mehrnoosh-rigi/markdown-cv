@@ -79,6 +79,10 @@ Meanwhile, of having a job and being a student as the master degree in a normal 
 
 
 
+
+
+
+
 `December 2017 - Now:`
 
 
@@ -99,6 +103,11 @@ Being responsible for the Qasimodo project, which is specialized for following a
 - Partially doing the Back End for new features and bug fixing with Clojure and GraphQL.
 - Responsible for writing unit test in Back End for the new features.
 - As the responsible for Continuous Integration testing I have written 19 automated tests covering 70% of the features, in order to have compatibility between the Front End and the Back End. (Configuration of Jenkins pipeline file, programming with gherkin and JavaScript)
+
+
+
+
+
 
 
 `June 2013 - August 2016:`
