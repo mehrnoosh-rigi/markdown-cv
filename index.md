@@ -43,10 +43,8 @@ Meanwhile, of having a job and being a student as the master degree in a normal 
 
 
 
-  <div>
-  MSc, Computer Software Engineering, Politecnico Di Torino
-  </div>
-
+  - MSc, Computer Software Engineering, Politecnico Di Torino
+  
 
 
 `2010-2013:`
@@ -62,9 +60,8 @@ Meanwhile, of having a job and being a student as the master degree in a normal 
 
 
 
-  <div>
-  BSc, Computer Science, Hardware Engineering: University of Sepahan(Isfahan) Science and Technology
-  </div>
+  - BSc, Computer Science, Hardware Engineering: University of Sepahan(Isfahan) Science and Technology
+
 ## Experience
 
 
@@ -96,7 +93,7 @@ Meanwhile, of having a job and being a student as the master degree in a normal 
 
 
 
-Web Developer in Etiqa.Srl : www.Etiqa.it
+- Web Developer in Etiqa.Srl : www.Etiqa.it
 
 Being responsible for the Qasimodo project, which is specialized for following and running the scripted testing files. 
 - Mostly doing new features and solving bugs in the Front End with JavaScript combined with React/Redux and GraphQl technologies.
@@ -124,7 +121,7 @@ Being responsible for the Qasimodo project, which is specialized for following a
 
 
 
-IT support and consultant in Agricultural and Natural Resource Engineering Organization: www.agriengs.ir
+- IT support and consultant in Agricultural and Natural Resource Engineering Organization: www.agriengs.ir
 
 Being responsible for IT issues related to the organization.
 - Supporting networks infrastructure and automation tools.
@@ -133,7 +130,7 @@ Being responsible for IT issues related to the organization.
 ## Technical Experience
 
 
-Programming languages: 
+___Programming languages:___
 
   Advanced: 
      Javascript(React/Redux/GraphQl)
