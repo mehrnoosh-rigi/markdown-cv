@@ -3,10 +3,12 @@ layout: cv
 title: Mehrnoosh Rigi
 ---
 # Mehrnoosh Rigi
-Software engineering, Junior web developer
+Meanwhile of having a job and being a student in master degree in a normal university, I found out I am not in the right place which I want to be, then I moved to Italy to learn more. after couple of months I saw being just a student didn't teach me the give that forced me to be an immigrant. So I decided to find a job to be in real world of engineering and continue my education during having a professional life. This cuased that I be in the first step of where that I want to be, having opportunity to follow my dreams and my interests for making the earth a better place for living.
 
 <div id="webaddress">
 <a href="mehrnoosh.rigi@etiqa.it">Mehrnoosh.Rigi@Etiqa.it</a>
+|
+ <a href="www.linkedin.com/in/mehrnoosh-rigi">Mehrnoosh.Rigi@Etiqa.it</a>
 </div>
 
 ## Education
