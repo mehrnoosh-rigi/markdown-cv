@@ -35,10 +35,10 @@ Meanwhile, of having a job and being a student as the master degree in a normal 
 - Web Developer in Etiqa.Srl : www.Etiqa.it
 
 Being responsible for the Qasimodo project, which is specialized for following and running the scripted testing files. 
-`-` Most of the time responsible for doing new features and solving bugs in the Front End with JavaScript combined with React/Redux and GraphQl technologies.
-`-` Some times responsible for doing the back end the new features and bug fixing with Clojure and GraphQL.
-`-` Responsible for writing unit test in back end for the new features.
-`-` As the responsible for Continuous Integration testing I have written 19 automated tests covering 70% of the features, in order to have compatibility between the Front End and the Back End. (Configuration of Jenkins pipeline file, programming with gherkin and JavaScript)
+    - Most of the time responsible for doing new features and solving bugs in the Front End with JavaScript combined with React/Redux and GraphQl technologies.
+    - Some times responsible for doing the back end the new features and bug fixing with Clojure and GraphQL.
+    - Responsible for writing unit test in back end for the new features.
+    - As the responsible for Continuous Integration testing I have written 19 automated tests covering 70% of the features, in order to have compatibility between the Front End and the Back End. (Configuration of Jenkins pipeline file, programming with gherkin and JavaScript)
 
 
 `June 2013 - August 2016:`
@@ -47,8 +47,8 @@ Being responsible for the Qasimodo project, which is specialized for following a
 - IT support and consultant in Agricultural and Natural Resource Engineering Organization: www.agriengs.ir
 
 Being responsible for IT issues related to the organization.
-`-` Supporting networks infrastructure and automation tools.
-'-' Solve the IT problem of co-workers.
+    - Supporting networks infrastructure and automation tools.
+    - Solve the IT problem of co-workers.
 
 ## Technical Experience
 
