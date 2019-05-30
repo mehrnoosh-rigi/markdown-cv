@@ -25,12 +25,32 @@ Meanwhile, of having a job and being a student as the master degree in a normal 
 
 
 
+
+
+
+
+
+
+
+
+
+
   MSc, Computer Software Engineering, Politecnico Di Torino
 
 
 
 
 `2010-2013:`
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -42,7 +62,17 @@ Meanwhile, of having a job and being a student as the master degree in a normal 
 
 
 
-Junior web Application Developer in Etiqa.Srl : www.Etiqa.it
+
+
+
+
+
+
+
+
+
+
+Web Developer in Etiqa.Srl : www.Etiqa.it
 
 Being responsible for the Qasimodo project, which is specialized for following and running the scripted testing files. 
 - Mostly doing new features and solving bugs in the Front End with JavaScript combined with React/Redux and GraphQl technologies.
@@ -52,6 +82,15 @@ Being responsible for the Qasimodo project, which is specialized for following a
 
 
 `June 2013 - August 2016:`
+
+
+
+
+
+
+
+
+
 
 
 
