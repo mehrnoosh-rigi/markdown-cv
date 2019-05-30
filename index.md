@@ -19,7 +19,7 @@ Software engineering, Junior web developer
 
 `December 2017 - Now`
 Junior web Application Developer in Etiqa.Srl : www.Etiqa.it
-- Being responsible for the Qasimodo project, which is specialized for following and running the scripted testing files. 
+Being responsible for the Qasimodo project, which is specialized for following and running the scripted testing files. 
 - Mostly doing new features and solving bugs in the Front End with the JavaScript with the technologies of React/Redux and GraphQl
 - Partially doing the Back End for new features and bug fixing with Clojure and GraphQL.
 - Responsible for writing unit test in Back End for new features.
